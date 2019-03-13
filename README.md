@@ -1,5 +1,6 @@
 # OnlineLearning Android Application
 
+## Motivation and Description:
 It’s a known fact that the Average screen sizes of our phones is increasing, thereby encouraging many to read and learn on the move. Keeping this trend in mind, you have to develop a Online Learning App.
 
 ## Functionalities:
